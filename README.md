@@ -7,16 +7,8 @@ Focused on Backend Development, Full-Stack Systems, and Scalable Web Application
 
 ## Profile Metrics
 
-![Profile Views](https://komarev.com/ghpvc/?username=jayesh-thar&label=Profile%20Views&color=0e75b6&style=flat)
-
 ![Followers](https://img.shields.io/github/followers/jayesh-thar?style=flat&label=Followers)
 ![Stars](https://img.shields.io/github/stars/jayesh-thar?affiliations=OWNER&style=flat&label=Total%20Stars)
-
----
-
-## Technology Stack
-
-![Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,mongodb,js,ts,java,git,github)
 
 ---
 
@@ -30,8 +22,8 @@ Focused on Backend Development, Full-Stack Systems, and Scalable Web Application
 
 ## Development Focus
 
-- Backend engineering with Node.js and Express  
-- REST API design and database architecture  
+- Backend engineering 
+- Database architecture  
 - Data Structures and Algorithms practice  
 - Building real-world full-stack applications  
 
