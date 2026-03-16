@@ -12,14 +12,6 @@ Focused on Backend Development, Full-Stack Systems, and Scalable Web Application
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-thar&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-thar&layout=compact&hide_border=true)
-
----
-
 ## Development Focus
 
 - Backend engineering 
