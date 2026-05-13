@@ -3,6 +3,10 @@
 Computer Engineering Student  
 Focused on Backend Development, Full-Stack Systems, and Scalable Web Applications.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayesh-thar/jayesh-thar/main/banner.png" alt="Jayesh Thar Banner" width="100%" />
+</p>
+
 ---
 
 ## 📊 Profile Metrics
