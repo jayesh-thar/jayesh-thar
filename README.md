@@ -34,7 +34,7 @@ Currently building real-world projects while strengthening problem-solving skill
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/jayesh-thar?style=flat&label=Followers&color=blue" alt="followers" />
-  
+  <img src="https://komarev.com/ghpvc/?username=jayesh-thar&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/stars/jayesh-thar?affiliations=OWNER&style=flat&label=Total%20Stars&color=yellow" alt="stars" />
 </p>
 
