@@ -60,8 +60,6 @@ Every bug fixed, every failed attempt, and every lesson learned is still progres
 
 <p align="center">
 
-Find me elsewhere
-
-<a href="https://contact-me-three-woad.vercel.app">Contact-Me</a>
+Find me elsewhere: <a href="https://contact-me-three-woad.vercel.app">Contact-Me</a>
 
 </p>
