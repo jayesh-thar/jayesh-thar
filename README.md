@@ -62,7 +62,6 @@ Every bug fixed, every failed attempt, and every lesson learned is still progres
 
 Find me elsewhere
 
-<a href="https://contact-me-three-woad.vercel.app">Portfolio</a> • <a href="https://github.com/jayesh-thar">GitHub</a> •
-LinkedIn
+<a href="https://contact-me-three-woad.vercel.app">Contact-Me</a>
 
 </p>
