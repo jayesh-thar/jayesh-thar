@@ -18,7 +18,6 @@ show up in a demo — auth flows, encryption, and the databases underneath.
 
 <p align="center">
 <a href="https://jayeshthar.me"><img src="https://img.shields.io/badge/Portfolio-jayeshthar.me-e7a94c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/></a>
-<a href="https://jayeshthar.me"><img src="https://img.shields.io/badge/Resume-Download-2f5d8a?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="https://linkedin.com/in/jayesh-thar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
 </p>
 
@@ -71,14 +70,14 @@ Vercel, Render, and MongoDB Atlas.
 ### Numbers behind the code
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jayesh-thar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-thar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats-yourname.vercel.app/api?username=jayesh-thar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=jayesh-thar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 
 ---
 
 <p align="center">
-<img width="65%" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"/>
 </p>
 
 <p align="center">
