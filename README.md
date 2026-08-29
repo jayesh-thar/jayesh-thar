@@ -37,6 +37,13 @@ show up in a demo — auth flows, encryption, and the databases underneath.
 
 ### Projects
 
+**[Researcher Campus](https://researcher-campus.vercel.app)** — *AI-guided academic research pipeline*
+Takes a researcher from a raw idea to a submission-ready paper package across
+7 connected stages — live novelty checks against 5 real academic databases,
+AI-assisted drafting, and an automated pre-submission compliance auditor.
+`React` `Node.js` `MongoDB` `Google Gemini API` `Vector Embeddings`
+→ [`Researcher-Campus`](https://github.com/jayesh-thar/Researcher-Campus)
+
 **[VaultX](https://vault-x.xyz)** — *privacy-first, zero-knowledge identity vault*
 Client-side AES-256-GCM encryption and Argon2id key derivation — the
 server never sees plaintext, ever. Custom React frontend with secure
@@ -44,26 +51,18 @@ autofill and password health analysis.
 `React` `Zero-Knowledge Crypto` `Argon2id`
 → [`vault-x`](https://github.com/jayesh-thar/vault-x)
 
+**[Rent-a-Tool Community Library](https://github.com/jayesh-thar/rent-a-tool)** — *peer-to-peer tool rental platform, capstone*
+Hybrid MERN marketplace with Google OAuth, phone verification, a
+time-based overdue fine engine, and a full admin panel — deployed across
+Vercel, Render, and MongoDB Atlas.
+`MERN` `OAuth` `System Design`
+→ [`rent-a-tool`](https://rent-a-tools.vercel.app)
+
 **[Authentication API](https://github.com/jayesh-thar/auth-api)** — *secure, reusable auth service*
 JWT access tokens with httpOnly refresh rotation, bcrypt hashing,
 rate-limited endpoints, and role-based access control. Zero hardcoded
 secrets, environment-driven config throughout.
 `Node.js` `Express` `JWT` `RBAC`
-
-**HookBin** — *webhook inspection, debugging & replay platform* `in progress`
-Live request streaming and one-click replay, backed by an AI-assisted
-payload explanation engine to cut integration time.
-`Node.js` `WebSockets` `React`
-
-**Rent-a-Tool Community Library** — *peer-to-peer tool rental platform, capstone*
-Hybrid MERN marketplace with Google OAuth, phone verification, a
-time-based overdue fine engine, and a full admin panel — deployed across
-Vercel, Render, and MongoDB Atlas.
-`MERN` `OAuth` `System Design`
-
-<p align="center">
-<a href="https://jayeshthar.me"><i>Full case studies, architecture notes, and more → jayeshthar.me</i></a>
-</p>
 
 ---
 
