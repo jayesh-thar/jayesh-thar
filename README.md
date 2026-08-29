@@ -5,13 +5,12 @@
 
 **Software Development Engineer — Full-Stack**
 
-Computer Engineering student building production-grade web systems, not
-tutorial clones. My default is to treat security, data modelling, and
-system design as part of the feature — not a pass I do afterward.
+Computer Engineering student building full-stack web systems end to end —
+treating security, data modelling, and system design as part of the
+feature, not a pass I do afterward. Currently sharpening DSA fundamentals
+and getting comfortable with the parts of the stack that don't show up in
+a demo: auth flows, encryption, and the databases underneath.
 
-Currently: sharpening DSA fundamentals, shipping full-stack projects end
-to end, and getting comfortable with the parts of the stack that don't
-show up in a demo — auth flows, encryption, and the databases underneath.
 </p>
 
 <br clear="right"/>
@@ -19,10 +18,6 @@ show up in a demo — auth flows, encryption, and the databases underneath.
 <p align="center">
 <a href="https://jayeshthar.me"><img src="https://img.shields.io/badge/Portfolio-jayeshthar.me-e7a94c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="https://linkedin.com/in/jayesh-thar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jayesh-thar/jayesh-thar/main/_updated_banner.png" width="100%">
 </p>
 
 ---
@@ -63,29 +58,6 @@ JWT access tokens with httpOnly refresh rotation, bcrypt hashing,
 rate-limited endpoints, and role-based access control. Zero hardcoded
 secrets, environment-driven config throughout.
 `Node.js` `Express` `JWT` `RBAC`
-
----
-
-### Numbers behind the code
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-yourname.vercel.app/api?username=jayesh-thar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-  <img height="170" src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=jayesh-thar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
-
----
-
-<p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif"/>
-</p>
-
-<p align="center">
-Progress isn't linear. Some days you move fast, some days you rewrite
-the same function four times before it clicks. Every bug fixed and
-every failed attempt is still progress.
-<br/>
-<b>Keep building. Keep learning. Keep shipping.</b>
-</p>
 
 ---
 
