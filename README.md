@@ -14,7 +14,7 @@ a demo: auth flows, encryption, and the databases underneath.
 </p>
 
 <br clear="right"/>
-
+<br/>
 <p align="center">
 <a href="https://jayeshthar.me"><img src="https://img.shields.io/badge/Portfolio-jayeshthar.me-e7a94c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/></a>
 <a href="https://linkedin.com/in/jayesh-thar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
