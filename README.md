@@ -33,12 +33,12 @@ a demo: auth flows, encryption, and the databases underneath.
 
 ### Projects
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Researcher Campus** | AI-guided pipeline taking a researcher from a raw idea to a submission-ready paper — live novelty checks against 5 real academic databases, AI-assisted drafting, and an automated pre-submission compliance auditor. | `React` `Node.js` `MongoDB` `Gemini API` `Vector Embeddings` | [researcher-campus.vercel.app](https://researcher-campus.vercel.app) · [Repo](https://github.com/jayesh-thar/Researcher-Campus) |
-| **VaultX** | Privacy-first, zero-knowledge identity vault — AES-256-GCM encryption and Argon2id key derivation entirely client-side, so the server never sees plaintext. React frontend with secure autofill and password health analysis. | `React` `Zero-Knowledge Crypto` `Argon2id` | [vault-x.xyz](https://vault-x.xyz) · [Repo](https://github.com/jayesh-thar/vault-x) |
-| **Rent-a-Tool Community Library** | Peer-to-peer tool rental marketplace (capstone) — Google OAuth, phone verification, a time-based overdue fine engine, and a full admin panel, deployed across Vercel, Render, and MongoDB Atlas. | `MERN` `OAuth` `System Design` | [rent-a-tools.vercel.app](https://rent-a-tools.vercel.app) · [Repo](https://github.com/jayesh-thar/rent-a-tool) |
-| **Authentication API** | Secure, reusable auth service — JWT access tokens with httpOnly refresh rotation, bcrypt hashing, rate-limited endpoints, and role-based access control. Zero hardcoded secrets. | `Node.js` `Express` `JWT` `RBAC` | [Repo](https://github.com/jayesh-thar/auth-api) |
+| Project | What it does | Stack | Live Link | Repo |
+|---|---|---|---|---|
+| **Researcher Campus** | AI-guided pipeline taking a researcher from a raw idea to a submission-ready paper — live novelty checks against 5 real academic databases, AI-assisted drafting, and an automated pre-submission compliance auditor. | `React` `Node.js` `MongoDB` `Gemini API` `Vector Embeddings` | [researcher-campus.vercel.app](https://researcher-campus.vercel.app) | [Repo](https://github.com/jayesh-thar/Researcher-Campus) |
+| **VaultX** | Privacy-first, zero-knowledge identity vault — AES-256-GCM encryption and Argon2id key derivation entirely client-side, so the server never sees plaintext. React frontend with secure autofill and password health analysis. | `React` `Zero-Knowledge Crypto` `Argon2id` | [vault-x.xyz](https://vault-x.xyz) | [Repo](https://github.com/jayesh-thar/vault-x) |
+| **Rent-a-Tool Community Library** | Peer-to-peer tool rental marketplace (capstone) — Google OAuth, phone verification, a time-based overdue fine engine, and a full admin panel, deployed across Vercel, Render, and MongoDB Atlas. | `MERN` `OAuth` `System Design` | [rent-a-tools.vercel.app](https://rent-a-tools.vercel.app) | [Repo](https://github.com/jayesh-thar/rent-a-tool) |
+| **Authentication API** | Secure, reusable auth service — JWT access tokens with httpOnly refresh rotation, bcrypt hashing, rate-limited endpoints, and role-based access control. Zero hardcoded secrets. | `Node.js` `Express` `JWT` `RBAC` | - | [Repo](https://github.com/jayesh-thar/auth-api) |
 
 ---
 
