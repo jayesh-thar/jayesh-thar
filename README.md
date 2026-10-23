@@ -1,25 +1,12 @@
-<h1 align="left">Jayesh Thar</h1>
+# Hi, I'm Jayesh 👋
 
-<p align="left">
-<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif"/>
+Final-year B.Tech Computer Engineering student (2027), aiming for a software engineer (SDE) role.
 
-**Software Development Engineer — Full-Stack**
+I mostly work on backend and API design with Node.js, TypeScript and PostgreSQL. I also build the React frontend, write tests, and deploy with Docker, GitHub Actions and AWS. I practice DSA on LeetCode.
 
-Computer Engineering student building full-stack web systems end to end —
-treating security, data modelling, and system design as part of the
-feature, not a pass I do afterward. Currently sharpening DSA fundamentals
-and getting comfortable with the parts of the stack that don't show up in
-a demo: auth flows, encryption, and the databases underneath.
+Open to on-site, hybrid and remote roles.
 
-</p>
-
-<br clear="right"/>
-<br/>
-<p align="center">
-<a href="https://jayeshthar.me"><img src="https://img.shields.io/badge/Portfolio-jayeshthar.me-e7a94c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a"/></a>
-<a href="https://linkedin.com/in/jayesh-thar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/></a>
-<a href="mailto:jayeshthar1409@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-e7a94c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/></a>
-</p>
+[Portfolio](https://jayeshthar.me) · [LinkedIn](https://www.linkedin.com/in/jayesh-thar) · [Email](mailto:jayeshthar1409@gmail.com) · [LeetCode](https://leetcode.com/u/JAYESH_THAR_14)
 
 ---
 
