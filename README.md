@@ -87,7 +87,7 @@ I mostly work on backend and API design with Node.js, TypeScript and PostgreSQL.
 <table width="100%">
 <tr>
 <td width="48%" valign="top">
-<a href="https://vault-x.xyz"><img src="rentatool.png" alt="VaultX screenshot" width="100%" /></a>
+<a href="https://vault-x.xyz"><img src="vaultx.png" alt="VaultX screenshot" width="100%" /></a>
 </td>
 <td width="52%" valign="top">
 
