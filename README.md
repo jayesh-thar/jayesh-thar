@@ -60,33 +60,11 @@ I mostly work on backend and API design with Node.js, TypeScript and PostgreSQL.
 
 ## Featured projects
 
-### 🔐 VaultX
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
-<a href="https://vault-x.xyz"><img src="project/pics/vaultx.png" alt="VaultX screenshot" width="100%" /></a>
-</td>
-<td width="52%" valign="top">
-
-**Zero-knowledge vault for logins, secure notes and payment cards. One master password, and the server never sees plaintext.**
-
-- AES-256-GCM encryption and Argon2id key derivation, entirely client-side
-- Secure autofill (web app + Chrome extension)
-- Password health analysis
-
-`React` `TypeScript` `AES-256-GCM` `Argon2id` `Chrome Extension`
-
-[**Live demo**](https://vault-x.xyz) · [Source code](https://github.com/jayesh-thar/vault-x)
-
-</td>
-</tr>
-</table>
-
 ### 🔬 Researcher Campus
 <table width="100%">
 <tr>
 <td width="48%" valign="top">
-<a href="https://researcher-campus.vercel.app"><img src="project/pics/researcher-campus.png" alt="Researcher Campus screenshot" width="100%" /></a>
+<a href="https://researcher-campus.vercel.app"><img src="reseacherCampus.png" alt="Researcher Campus screenshot" width="100%" /></a>
 </td>
 <td width="52%" valign="top">
 
@@ -104,11 +82,35 @@ I mostly work on backend and API design with Node.js, TypeScript and PostgreSQL.
 </tr>
 </table>
 
+
+### 🔐 VaultX
+<table width="100%">
+<tr>
+<td width="48%" valign="top">
+<a href="https://vault-x.xyz"><img src="rentatool.png" alt="VaultX screenshot" width="100%" /></a>
+</td>
+<td width="52%" valign="top">
+
+**Zero-knowledge vault for logins, secure notes and payment cards. One master password, and the server never sees plaintext.**
+
+- AES-256-GCM encryption and Argon2id key derivation, entirely client-side
+- Secure autofill (web app + Chrome extension)
+- Password health analysis
+
+`React` `TypeScript` `AES-256-GCM` `Argon2id` `Chrome Extension`
+
+[**Live demo**](https://vault-x.xyz) · [Source code](https://github.com/jayesh-thar/vault-x)
+
+</td>
+</tr>
+</table>
+
+
 ### 🛠️ Rent-a-Tool Community Library
 <table width="100%">
 <tr>
 <td width="48%" valign="top">
-<a href="https://rent-a-tools.vercel.app"><img src="project/pics/rent-a-tool.png" alt="Rent-a-Tool screenshot" width="100%" /></a>
+<a href="https://rent-a-tools.vercel.app"><img src="rentatool.png" alt="Rent-a-Tool screenshot" width="100%" /></a>
 </td>
 <td width="52%" valign="top">
 
@@ -131,7 +133,7 @@ I mostly work on backend and API design with Node.js, TypeScript and PostgreSQL.
 <table width="100%">
 <tr>
 <td width="48%" valign="top">
-<a href="https://github.com/jayesh-thar/Authentication-Api---project"><img src="project/pics/auth-api.png" alt="Authentication API architecture" width="100%" /></a>
+<a href="https://github.com/jayesh-thar/Authentication-Api---project"><img src="authapi.png" alt="Authentication API architecture" width="100%" /></a>
 </td>
 <td width="52%" valign="top">
 
